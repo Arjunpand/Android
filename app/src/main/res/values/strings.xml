@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Register1</string>
+    <string name="edt1">Name</string>
+    <string name="txt1">Username :</string>
+    <string name="edt2">Password</string>
+    <string name="btn1">Sign In</string>
+    <string name="txt2">Password :</string>
+    <string name="btn2">Register</string>
+    <string name="txt3">Registration</string>
+    <string name="fname">First Name :</string>
+    <string name="lname">Last Name :</string>
+    <string name="address">Address :</string>
+    <string name="email">Email :</string>
+    <string name="sex">Gender :</string>
+    <string name="firstname">first name</string>
+    <string name="lastname">last name</string>
+    <string name="haddress">postal address</string>
+    <string name="hemail">abc@gmail.com</string>
+    <string name="hsex">male/female</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+</resources>
